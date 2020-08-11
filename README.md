@@ -2,7 +2,7 @@
 My first project - I'd been through the [Jake VanderPlas handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) and was keen to try out an application for numpy and pandas, so this is entirely a learning exercise. It's nothing new, and doesn't generate a reliable ROI, but rather that just copy the code for an advanced model I wanted to build something myself from scratch. Hopefully this helps someone who is also just starting out!
 
 # Resources
-I've included the data from a few seasons in the format yy.csv, where the season is 20yy/yy+1. You can download each premier league season's dataset [here](https://www.football-data.co.uk/englandm.php). In the code you’ll need to define a season in which to place bets. The results are then predicted based on data from the previous season.
+You can download each premier league season's dataset [here](https://www.football-data.co.uk/englandm.php). In the code you’ll need to define a season in which to place bets. The results are then predicted based on data from the previous season.
 
 ```python
 betting_year=17
