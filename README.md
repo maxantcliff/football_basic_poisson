@@ -1,4 +1,4 @@
-I've since uploaded a better-coded [version](https://github.com/maxantcliff/football_poisson_2/blob/master/football_poisson_2.ipynb).
+I've since uploaded a much better version of this [here](https://github.com/maxantcliff/football_poisson_2/blob/master/football_poisson_2.ipynb).
 
 # Description
 My first project - I'd been through the [Jake VanderPlas handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) and was keen to try out an application for numpy and pandas, so this is entirely a learning exercise. It's nothing new, and doesn't generate a reliable ROI, but rather that just copy the code for an advanced model I wanted to build something myself from scratch. Hopefully this helps someone who is also just starting out!
